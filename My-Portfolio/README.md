@@ -1,5 +1,5 @@
 # My-Portfolio
-My PortFolio Web with
+My Portfolio Web with
 - html
 - css
 - javascript
