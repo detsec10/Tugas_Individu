@@ -1,4 +1,4 @@
-# Login System With WPF and MySql
+# Login System With WPF and MySql Database
 ## Requirement
 1. mysql-connector-net-8.0.20
 2. phpmyadmin
